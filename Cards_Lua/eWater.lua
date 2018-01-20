@@ -4,7 +4,9 @@ eWater =
     path = "Data/Cards/eWater",
 	cost = 3,
 	 
-	 mEffect = Effect.Boost,
-	     amount = 5,
+	 mEffect = effect.Battlecry,
+	 mType = etype.Boost,
+	 mStat = stat.Attack,
+	 amount = 5
 }
     
